@@ -10,7 +10,11 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>I am interested in technology and enjoy learning about new tools and techniques. Graduated from Alterra Academy as a Software Quality Engineer and have helped me a lot to know and learn about fundamental testing, documentation testing, API automation testing, Web automation testing, Performance testing and Database SQL. Skilled with Rest Assured, Selenium, SerenityBDD, Postman, JMeter, MySQL. I work on targets and manage to achieve the goal within the specified time limit in my job experience as a distributor. I’m willing to work in a company that can make an impact on many people with a good quality product.
+  <samp> Hi, I am a Quality Engineer with Java Programming
+TECHNICAL SKILLS
+
+Languages	   : Java, SQL.
+Technologies	: Intellij IDEA, Serenity BDD, Cucumber, Selenium, Rest Assured, Postman, JMeter, MySQL.
 
   </samp>
   <br> <br>
