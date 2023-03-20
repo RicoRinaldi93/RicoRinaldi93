@@ -1,16 +1,48 @@
-### Hi there 👋
-
 <!--
 **RicoRinaldi93/RicoRinaldi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->  
 
-Here are some ideas to get you started:
+<h1 align="center"> 👋 </h1>
+<div align="center">
+   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
+<p align="center"> (Open for Hiring)</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>I am interested in technology and enjoy learning about new tools and techniques. Graduated from Alterra Academy as a Software Quality Engineer and have helped me a lot to know and learn about fundamental testing, documentation testing, API automation testing, Web automation testing, Performance testing and Database SQL. Skilled with Rest Assured, Selenium, SerenityBDD, Postman, JMeter, MySQL. I work on targets and manage to achieve the goal within the specified time limit in my job experience as a distributor. I’m willing to work in a company that can make an impact on many people with a good quality product.
+
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
+</p>
+
+<hr>
+
+<h2 align="center"> 🔭 Tools of Trade</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+</p>
+<p align="center">Java, SQL, Serenity BDD, Cucumber, Selenium, Rest Assured, Postman, JMeter, MySQL.</p>
+
+<hr>
+
+<h2 align="center">💬 My Blog Articles</h2>
+<p align="center" align='right'>
+  <a target="_blank"href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/rico-rinaldi-1a2753131/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rrinaldirico@gmail.com?subject=Hello%20IRico,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
