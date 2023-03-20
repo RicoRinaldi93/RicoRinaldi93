@@ -2,7 +2,7 @@
 **RicoRinaldi93/RicoRinaldi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
-<h1 align="center"> 👋 </h1>
+<h1 align="center">https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif</h1>
 <div align="center">
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
@@ -10,11 +10,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp> Hi, I am a Quality Engineer with Java Programming
-TECHNICAL SKILLS
-
-Languages	   : Java, SQL.
-Technologies	: Intellij IDEA, Serenity BDD, Cucumber, Selenium, Rest Assured, Postman, JMeter, MySQL.
+  <samp> Hi, I am a Quality Engineer with Java Programming. Graduated from Alterra Academy as a Software Quality Engineer and have helped me a lot to know and learn about Quality Assurance Career and Fundamental Testing, Testing Documentation, RESTful API, Basic Programming, WEB Automation Testing, API Automation Testing, Performance Testing, Git & GitHub and Database SQL.
 
   </samp>
   <br> <br>
