@@ -2,7 +2,7 @@
 **RicoRinaldi93/RicoRinaldi93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
-<h1 align="center">https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif</h1>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Rico Rinaldi </h3>
 <div align="center">
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
